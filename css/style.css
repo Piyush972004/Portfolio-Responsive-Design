@@ -68,12 +68,23 @@ body {
           transform: translate(100%, -50%);
 }
 
-/*header section*/
+/* Make the navbar fixed at the top */
+.custom_nav-container {
+  z-index: 99999;
+  padding: 10px 0;
+  position: fixed;  /* Fixed position */
+  top: 0;           /* Align to the top */
+  left: 0;
+  width: 100%;      /* Full width */
+  background-color: #000;  /* Optional background color for visibility */
+}
+
 .hero_area {
-  height: 100vh;
+  height: 90vh;
   background-color: #b5caee;
   background-image: url(../images/unsplash.jpg);
   background-size: cover;
+  padding-top: 70px;  /* Add padding to avoid navbar overlap */
 }
 
 .sub_page .hero_area {
@@ -159,20 +170,17 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+ 
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   font-family: 'Open Sans', sans-serif;
+  padding-left: 20px;  
 }
 
 .navbar-brand span {
   font-size: 24px;
   color: #ffffff;
-}
-
-.custom_nav-container {
-  z-index: 99999;
-  padding: 15px 0;
 }
 
 .custom_nav-container .navbar-toggler {
