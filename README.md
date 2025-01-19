@@ -1,5 +1,7 @@
 # Assignment-
 Portfolio Responsive Design
+
+## Screenshots
 ![Homepage Screenshot](https://github.com/Piyush972004/Assignment-/blob/2540db054c8f0cb237c2a70e3c9303fd39e39be4/images/Screenshot%202025-01-19%20144852.png)
 
 
@@ -60,9 +62,5 @@ Follow these steps to run the website on your local system:
 4. **View Other Pages**:
    - You can navigate to other pages using the website's menu or directly open files like `about.html` or `contact.html`.
 
-## Screenshots
-
-Include relevant screenshots of your project here.
-
 Live Preview
-View the live version of this project here: [Live Website]([https://yourusername.github.io/repository-name](https://piyush972004.github.io/Assignment-/))
+View the live version of this project here: Preview[Live Website]([https://yourusername.github.io/repository-name](https://piyush972004.github.io/Assignment-/))
