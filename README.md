@@ -62,5 +62,6 @@ Follow these steps to run the website on your local system:
 4. **View Other Pages**:
    - You can navigate to other pages using the website's menu or directly open files like `about.html` or `contact.html`.
 
-Live Preview
-View the live version of this project here: Preview[Live Website](https://yourusername.github.io/repository-name](https://piyush972004.github.io/Assignment-/)
+## Live Preview
+View the live version of this project: [Click Here](https://piyush972004.github.io/Assignment-/)
+
