@@ -1,6 +1,7 @@
 # Assignment-
 Portfolio Responsive Design
-This repository contains a simple website project built with HTML, CSS, and JavaScript.
+![Homepage Screenshot](https://github.com/Piyush972004/Assignment-/blob/2540db054c8f0cb237c2a70e3c9303fd39e39be4/images/Screenshot%202025-01-19%20144852.png)
+
 
 ## Table of Contents
 
