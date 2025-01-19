@@ -41,6 +41,27 @@ Portfolio Responsive Design
 - A modern web browser like Google Chrome, Mozilla Firefox, or Microsoft Edge.
 - A code editor like Visual Studio Code (optional, for customization).
 
+
+## Features
+- Responsive design for mobile and desktop.
+- Clean and modern layout.
+- Portfolio showcase section.
+- Interactive contact form.
+
+
+## Built With
+- **HTML5**: Markup structure.
+- **CSS3**: Styling and responsive design.
+- **JavaScript**: Interactivity.
+- **Bootstrap 4**: Pre-built components and layout.
+
+
+## Contact
+For any questions or suggestions, feel free to reach out:
+- **Email**: piyushkukreja972004@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/piyush-kukreja-0b216a258/)
+
+
 ## How to Run
 
 Follow these steps to run the website on your local system:
