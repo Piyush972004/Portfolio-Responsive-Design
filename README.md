@@ -13,6 +13,9 @@ Portfolio Responsive Design
 
 ---
 
+![Homepage Screenshot]([assets/screenshot.png](https://github.com/Piyush972004/Assignment-/blob/75deabc409cdeb29efe0980a04e3c305ff913f1d/images/Screenshot%202025-01-19%20144926.png))
+
+
 ## Project Structure
 
 - **HTML Files**
