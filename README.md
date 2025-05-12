@@ -1,6 +1,10 @@
 # Assignment-
 Portfolio Responsive Design
 
+## 🌐 Live Preview
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)]( https://piyush972004.github.io/Portfolio-Responsive-Design/)
+
+
 ## Screenshots
 ![Homepage Screenshot](https://github.com/Piyush972004/Assignment-/blob/2540db054c8f0cb237c2a70e3c9303fd39e39be4/images/Screenshot%202025-01-19%20144852.png)
 
